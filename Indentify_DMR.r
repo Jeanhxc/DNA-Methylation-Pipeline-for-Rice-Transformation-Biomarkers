@@ -1,6 +1,7 @@
 #CG
 callusCG= read.table("common_region_CG.txt",sep="\t",header=T)
-cgtrun_selected_columns <- c("Chr","start","end","Transformed_1","Transformed_2","Transformed_3","Untransformed_1","Untransformed_2","Untransformed_3")
+cgtrun_selected_columns <- c("Chr","start","end","Transformed_1","Transformed_2","Transformed_3",
+                             "Untransformed_1","Untransformed_2","Untransformed_3")
 CGtrun <- callusCG[, cgtrun_selected_columns]
 
 cutoff_CG=0.25
