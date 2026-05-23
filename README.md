@@ -1,4 +1,4 @@
-# DNA_Methylation_Analysis
+# DNA Methylation Pipeline for Rice Transformation Biomarkers
 Precess Pipeline
 ------------------------------
 **Step1: Quality control**
