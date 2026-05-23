@@ -1,5 +1,5 @@
 # DNA Methylation Pipeline for Rice Transformation Biomarkers
-Precess Pipeline
+Methylome Precess Pipeline
 ------------------------------
 **Step1: Quality control**
 
